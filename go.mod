@@ -1,4 +1,4 @@
-module github.com/futuretea/go-yapi
+module github.com/majintao/go-yapi
 
 go 1.12
 
